@@ -1,3 +1,3 @@
-# oblique-strategies
+# Oblique Strategies
 
-[View Website](https://amygrahamie.github.io/oblique-stategies/obliquestrategies.html)
+[View Website here](https://amygrahamie.github.io/oblique-stategies/obliquestrategies.html)
